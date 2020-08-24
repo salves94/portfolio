@@ -23,7 +23,7 @@ export default [
     key: 5,
     name: 'Skills',
     route: '/skills'
-  },
+  }, /*
   {
     key: 6,
     name: 'Projects',
@@ -33,5 +33,5 @@ export default [
     key: 7,
     name: 'Interests',
     route: '/interests'
-  } // you can customize your menu here
+  } */
 ];
