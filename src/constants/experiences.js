@@ -2,7 +2,7 @@ export default [
   {
     key: 1,
     role:'Software Developer',
-    company: 'Instituto Venezolano de Investigaciones Científicas',
+    company: 'Instituto Venezolano de Investigaciones Científicas (IVIC)',
     date: 'Sep 2015 - Jan 2017',
     desc: `<ul>
     <li>
@@ -31,7 +31,7 @@ export default [
   {
     key: 3,
     role:'Associate Professor',
-    company: 'Universidad Bicentenaria de Aragua',
+    company: 'Universidad Bicentenaria de Aragua (UBA)',
     date: 'Sep 2017 - Feb 2018',
     desc: `<ul>
     <li>

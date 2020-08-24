@@ -1,14 +1,14 @@
 export default [
   {
     key: 1,
-    school: 'Universidad Bicentenaria de Aragua',
+    school: 'Universidad Bicentenaria de Aragua (UBA)',
     date: '2011 - 2016',
     subject: 'BS. in Systems Engineering',
     desc: `Grade: 18.5/20`
   },
   {
     key: 2,
-    school: 'Universidad Central de Venezuela',
+    school: 'Universidad Central de Venezuela (UCV)',
     date: '2019 - 2020',
     subject: 'MS. in Data Science & Advanced Analytics',
     desc: ``

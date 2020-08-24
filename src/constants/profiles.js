@@ -26,6 +26,14 @@ export default {
     {
       icon: 'fa-instagram',
       link: 'https://www.instagram.com/salves_94'
+    },
+    {
+      icon: 'fa-medium-m',
+      link: 'https://medium.com/@sergioalves94'
+    },
+    {
+      icon: 'fa-dev',
+      link: 'https://dev.to/sergioalves1994'
     }
   ]
 };

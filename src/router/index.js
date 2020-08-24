@@ -44,6 +44,12 @@ const routes = [
     meta: { transitionName: `slide` }
   },
   {
+    path: '/certifications',
+    name: 'Certifications',
+    component: () => import('../views/Certifications.vue'),
+    meta: { transitionName: `slide` }
+  },
+  {
     path: '**',
     redirect: '/'
   }
