@@ -1,10 +1,9 @@
 let coreSkills = [
-  'fa-html5','fa-markdown','fa-css3-alt','fa-bootstrap','fa-js-square','fa-jsfiddle','fa-angular',
-  'fa-vuejs','fa-npm','fa-php','fa-wordpress','fa-laravel','fa-git-alt','fa-gitkraken','fa-bitbucket','fa-gitlab','fa-linode','fa-linux','fa-windows','fa-adobe'
+  'fa-html5','fa-css3-alt','fa-bootstrap','fa-js-square','fa-vuejs','fa-react','fa-node','fa-php','fa-wordpress','fa-laravel','fa-python','fas fa-flask','fas fa-database','fa-git-alt'
 ];
 
 let otherSkills = [
-  'fa-podcast','fa-film','fa-camera'
+  'fa-music','fa-guitar','fa-microphone'
 ];
 // you can add more skills whatever you want with inital icon based on fontawesome icon
 export default {

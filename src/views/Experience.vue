@@ -7,7 +7,7 @@
           <div class="resume-content">
             <h3 class="mb-0">{{experience.role}}</h3>
             <div class="subheading mb-3">{{experience.company}}</div>
-            <p>{{experience.desc}}</p>
+            <p v-html="experience.desc"></p>
           </div>
           <div class="resume-date text-md-right">
             <span class="text-primary">{{experience.date}}</span>
