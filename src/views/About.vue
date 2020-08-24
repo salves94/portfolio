@@ -5,7 +5,7 @@
         <span class="text-primary">{{me.biodata.last_name}}</span>
       </h1>
       <div class="subheading mb-5">{{me.biodata.address}}
-        <a href="mailto:raihannismara@gmail.com">{{me.biodata.email}}</a>
+        <a href="mailto:sergioalves94@gmail.com">{{me.biodata.email}}</a>
       </div>
       <p class="lead mb-5">{{me.biodata.headline}}</p>
       <div class="social-icons">
